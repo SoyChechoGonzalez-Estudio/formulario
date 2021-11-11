@@ -1,0 +1,21 @@
+.circulo1 {
+  background-color: #efdaf7;
+  height: 314px;
+  width: 600px;
+  position: absolute;
+  top: -200px;
+  z-index: -1;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.circulo2 {
+  background-color: #efdaf7;
+  height: 314px;
+  width: 600px;
+  position: absolute;
+  bottom: -200px;
+  right: 0;
+  z-index: -1;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
