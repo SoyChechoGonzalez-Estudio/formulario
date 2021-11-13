@@ -2,7 +2,7 @@
   background-color: #efdaf7;
   height: 314px;
   width: 600px;
-  position: absolute;
+  position: fixed;
   top: -200px;
   z-index: -1;
   border-bottom-left-radius: 50%;
@@ -12,7 +12,7 @@
   background-color: #efdaf7;
   height: 314px;
   width: 600px;
-  position: absolute;
+  position: fixed;
   bottom: -200px;
   right: 0;
   z-index: -1;

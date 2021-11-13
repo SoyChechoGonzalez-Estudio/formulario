@@ -2,13 +2,14 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
-  width: 100%;
+  /*border: 3px solid red;*/
 }
 
 input {
   padding: 24px 24px;
   border-radius: 16px;
   border: 1px solid #ccc;
+  width: 100%;
 }
 
 input::placeholder {

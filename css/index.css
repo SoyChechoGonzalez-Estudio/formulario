@@ -2,7 +2,8 @@
 @import "./componentes/wrapper.css";
 @import "./formulario.css";
 @import "./componentes/input.css";
-@import "./componentes/circulo.css";
+@import "./componentes/background.css";
+@import "./reset.css";
 
 * {
   margin: 0;
